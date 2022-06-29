@@ -1,0 +1,1 @@
+create database customer_management_system;
